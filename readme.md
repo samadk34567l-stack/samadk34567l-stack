@@ -3,7 +3,7 @@
 
 <!-- Hero Dev Avatar / Profile Graphic -->
 <p align="center">
-  <img width="800" src="image" alt="Abdul Samad - Frontend Developer" />
+  <img width="800" src="https://github.com/samadk34567l-stack/samad-dev-space/blob/main/Gemini_Generated_Image_frk70lfrk70lfrk7.jpg" alt="Abdul Samad - Frontend Developer" />
 </p>
 
 ---
@@ -42,18 +42,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Don't forget to star repositories you like!
-</p>
