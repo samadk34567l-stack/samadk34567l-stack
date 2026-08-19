@@ -1,1 +1,0 @@
-# samad-dev-space
