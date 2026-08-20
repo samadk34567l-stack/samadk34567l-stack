@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
-<h3 align="center">💻 Frontend Developer | UI/UX & Responsive Web Design</h3>
+<h3 align="center">🚀 Full Stack Developer| Frontend devlopement</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Building+Scalable+Web+Apps" />
+</p>
+
 
 <!-- Hero Dev Avatar / Profile Graphic -->
 <p align="center">
@@ -9,10 +13,19 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 **Frontend Developer** focusing on building modern web applications.
-- 🎨 Passionate about crafting pixel-perfect, responsive user interfaces.
-- 🚀 Always learning new web technologies and improving my coding skills.
-- 💬 Open to collabs and tech chats!
+-About Me
+
+👋 Hi, I'm Abdul Samad — a passionate Full Stack Developer specializing in React.js and Node.js.
+
+🚀 I love building responsive, user-friendly web applications and turning ideas into real, functional products.
+
+🎓 Trained at Saylani Mass IT Training (SMIT), where I sharpened my skills in modern web development.
+
+🔭 Currently working on improving my Full Stack development skills and exploring new technologies.
+
+🌱 Always learning, always building.
+
+📫 Let's connect and collaborate on exciting projects!
 
 ---
 
@@ -27,8 +40,6 @@
 - 💼 **Hire Me on LinkedIn:** [Abdul Samad on LinkedIn](https://www.linkedin.com/in/abdulsamad-web)
 
 ---
-
-### 🛠️ Tech Stack
 
 #### 🚀 Core Technologies
 <p>
